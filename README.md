@@ -2,7 +2,7 @@
 
 Each folder contains a readme.md with descriptions on that folder's contents.
 
-- /random contains other *random* folders with other snippets or scripts etc.  
+- /misc contains other *misc* scripts  
 - /gam contains scripts that I have written to help automate use of [Google Apps Manager](https://github.com/jay0lee/GAM)  
 - /jamf contains scripts, snippets, launchagents, etc. that I find useful for managing [jamfPRO](https://www.jamf.com/)
 
